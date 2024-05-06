@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Jenkins Job Configuration History Plugin
+Specification-Version: 0.0
+Implementation-Title: Jenkins Job Configuration History Plugin
+Implementation-Version: 1227.v7a_79fc4dc01f
+Group-Id: org.jenkins-ci.plugins
+Artifact-Id: jobConfigHistory
+Short-Name: jobConfigHistory
+Long-Name: Jenkins Job Configuration History Plugin
+Url: https://github.com/jenkinsci/job-config-history-plugin
+Plugin-Version: 1227.v7a_79fc4dc01f
+Hudson-Version: 2.387.3
+Jenkins-Version: 2.387.3
+Plugin-Dependencies: ionicons-api:56.v1b_1c8c49374e,maven-plugin:3.22;re
+ solution:=optional
+Plugin-Developers: 
+Plugin-License-Name: The MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/job-config-hi
+ story-plugin.git
+Plugin-ScmTag: 7a79fc4dc01f62d726025eddfefc1f3770b41c31
+Plugin-ScmUrl: https://github.com/jenkinsci/job-config-history-plugin
+Plugin-GitHash: 7a79fc4dc01f62d726025eddfefc1f3770b41c31
+Implementation-Build: 7a79fc4dc01f62d726025eddfefc1f3770b41c31
+

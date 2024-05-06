@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Lockable Resources plugin
+Specification-Version: 0.0
+Implementation-Title: Lockable Resources plugin
+Implementation-Version: 1172.v4b_8fc8eed570
+Plugin-Class: org.jenkins.plugins.lockableresources.LockableResources
+Group-Id: org.6wind.jenkins
+Artifact-Id: lockable-resources
+Short-Name: lockable-resources
+Long-Name: Lockable Resources plugin
+Url: https://github.com/jenkinsci/lockable-resources-plugin
+Compatible-Since-Version: 2.0
+Plugin-Version: 1172.v4b_8fc8eed570
+Hudson-Version: 2.387.3
+Jenkins-Version: 2.387.3
+Plugin-Dependencies: caffeine-api:3.1.6-115.vb_8b_b_328e59d8,data-tables
+ -api:1.13.4-2,workflow-support:839.v35e2736cfd5c,mailer:457.v3f72cb_e01
+ 5e5,matrix-project:789.v57a_725b_63c79,script-security:1251.vfe552ed55f
+ 8d,structs:324.va_f5d6774f3a_d
+Plugin-Developers: Basil Crow:basil:me@basilcrow.com,Tobias Gruetzmacher
+ :TobiX:tobias-git@23.gs,Antonio Muñiz:amuniz:amuniz@cloudbees.com
+Plugin-License-Name: MIT
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/lockable-reso
+ urces-plugin.git
+Plugin-ScmTag: 4b8fc8eed5703d5f76b1a8f9c5dcd18fc2ba4b6c
+Plugin-ScmUrl: https://github.com/jenkinsci/lockable-resources-plugin
+Plugin-GitHash: 4b8fc8eed5703d5f76b1a8f9c5dcd18fc2ba4b6c
+Implementation-Build: 4b8fc8eed5703d5f76b1a8f9c5dcd18fc2ba4b6c
+

@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Copy Artifact Plugin
+Specification-Version: 0.0
+Implementation-Title: Copy Artifact Plugin
+Implementation-Version: 705.v5295cffec284
+Plugin-Class: hudson.plugins.copyartifact.CopyArtifactPlugin
+Group-Id: org.jenkins-ci.plugins
+Artifact-Id: copyartifact
+Short-Name: copyartifact
+Long-Name: Copy Artifact Plugin
+Url: https://github.com/jenkinsci/copyartifact-plugin
+Compatible-Since-Version: 1.44
+Plugin-Version: 705.v5295cffec284
+Hudson-Version: 2.361.4
+Jenkins-Version: 2.361.4
+Plugin-Dependencies: maven-plugin:3.16;resolution:=optional,apache-httpc
+ omponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5,cloudbees-folder:6.7
+ 58.vfd75d09eea_a_1;resolution:=optional,matrix-project:789.v57a_725b_63
+ c79,structs:324.va_f5d6774f3a_d
+Plugin-Developers: 
+Plugin-License-Name: The MIT license
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/copyartifact-
+ plugin.git
+Plugin-ScmTag: 5295cffec2847ae5a6397e9463d7bd8ae6b64b7e
+Plugin-ScmUrl: https://github.com/jenkinsci/copyartifact-plugin
+Plugin-GitHash: 5295cffec2847ae5a6397e9463d7bd8ae6b64b7e
+Implementation-Build: 5295cffec2847ae5a6397e9463d7bd8ae6b64b7e
+
